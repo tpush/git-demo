@@ -1,5 +1,6 @@
-![Svg](1.svg)
 # This a Heading.
+
+![SVG-logo](1.svg)
 
 Text Text Text Text 
 Some __more__ text.
