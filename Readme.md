@@ -1,7 +1,7 @@
+<p align="center">
 # This a Heading.
 
-![SVG-logo](1.svg)
-
+<img src=# href="1.svg" alt="logo">
 Text Text Text Text 
 Some __more__ text.
 
@@ -10,3 +10,4 @@ _Garbage_ garbage garbage garbage garbage
 
 As I say:
 > To be continude..
+</p>
