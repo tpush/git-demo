@@ -2,7 +2,7 @@
  <img height=100 src="1.svg" href="#" alt="logo">
 </p>
 
- # This a Heading.
+ <p align='center'> This a Heading.</p>
 
  Text Text Text Text 
  Some __more__ text.
