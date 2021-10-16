@@ -1,8 +1,6 @@
-<p align='center'> 
  # This a Heading.
-</p>
 <p align="center">
- <img width=200 src="http://material-bread.org/logo-shadow.svg" href="#" alt="logo">
+ <img width=200 src="1.svg" href="#" alt="logo">
 </p>
 
  Text Text Text Text 
